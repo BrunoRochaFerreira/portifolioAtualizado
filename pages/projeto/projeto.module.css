@@ -1,0 +1,44 @@
+.cabecalho{
+    height: 80px;
+    width: 100%;
+    background-color: black;
+    margin-top: 0;
+}
+
+.main{
+    text-align: center;
+    flex: 1;
+}
+
+.main div {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.container{
+    font-weight: lighter;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.texto{
+    font-weight: lighter;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+
+
+.rodape{
+   height: 50px;
+   width: 100%;
+   background-color: black;
+   position: relative;
+   bottom: 0;
+}
+

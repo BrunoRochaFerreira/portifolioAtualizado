@@ -1,0 +1,43 @@
+.form{
+    align-items: center;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.nome{
+
+    margin-left: 10px;
+}
+
+.email{
+    margin-left: 15.5px;
+}
+
+.telefone{
+    margin-left: 33.8px;
+}
+
+.mensagem{
+    margin-left: 15px;
+    height: 32px;
+}
+
+.formulario{
+    margin-top: 355px;
+    position: absolute;
+    align-items: center;
+}
+
+.fale{
+    margin-top: 50px;
+    position: relative;
+    align-items: center;
+}
+
+.botao{
+    margin-left: 50%;
+    width: 37%;
+    border-radius: 10px;
+}

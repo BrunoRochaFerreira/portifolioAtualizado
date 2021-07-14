@@ -1,0 +1,33 @@
+.topo{
+    height: 100px;
+    width: 100%;
+    background-color: green;
+}
+
+.image{
+    background-image: url("../../public/imagemIncio.jpg");
+    width: 100%;
+    height:100vh;
+    z-index: -1;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.pname{
+    text-align: center;
+    margin-top: 200px;
+    
+}
+
+
+.rodape{
+    height: 100px;
+    width: 100%;
+    background-color: red;
+    position: relative;
+    bottom: 0;
+}
